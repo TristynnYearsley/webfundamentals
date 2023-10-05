@@ -4,7 +4,6 @@ body{
 .maincontent{
     width:auto;    
     text-align: center;
-    background-color: pink;
 }
 h1:hover{
     color: black;
