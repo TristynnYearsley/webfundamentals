@@ -22,7 +22,8 @@
 #custom-accordion label{position: relative; display:block;font-size:16px;line-height:20px;color:#0465ac;font-weight:600;cursor:pointer;}
 #content{
     max-width: 1600px;
-    margin: 0 auto;
+    margin-left: 20%;
+    margin-right: 20%;
 }
 nav a{
     text-align: center;
